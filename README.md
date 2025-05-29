@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @subhasish
+- 🎓 I’m a B.Tech student in Electronics & Telecommunications Engineering (2021–2025)
+- 👀 I’m interested in AI/ML, Cybersecurity, Web Development, and IoT
+- 🌱 I’m currently learning WordPress, Software Testing, and Full-Stack Web Development
+- 💼 I’ve interned at Cyber Secured India and worked on AI-driven healthcare and face recognition projects
+- 💞️ I’m looking to collaborate on AI, IoT, and security-based research or web projects
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/subhasishpanda26) | Email: subhasishompanda@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love blending creativity with code and enjoy learning new tech by building real-world projects
